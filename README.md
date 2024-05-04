@@ -10,7 +10,7 @@ arquivo index contendo o codigo abaixo:
     <h1>Olá, GitHub!</h1>
     <p>Este é o meu primeiro projeto usando GitHub.</p>
     <!-- Inserir a imagem abaixo -->
-    <img src="imagens/matrix.png" alt="Matrix">
+    <img src="matrix.png" alt="Matrix">
 </body>
 </html>
 
